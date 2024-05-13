@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.vscode/
+.idea/
+.env
+*.log
+*.pyc
+db.sqlite
+.gcloudignore
+*.sh
+
+static/keys/
+instructions.txt
+todo.txt
