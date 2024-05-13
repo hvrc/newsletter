@@ -1,0 +1,17 @@
+download python and pip
+delete the venv folder
+open a terminal or command prompt in the directory where main.py is located
+
+install a virtualenv through python:
+python -m pip install virtualenv
+python -m venv venv
+
+activate the virtual env
+venv\Scripts\activate OR 
+source venv/bin/activate
+
+install the requirements throught pip and requirements.txt
+pip install -r requirements.txt
+
+run the app
+python main.py

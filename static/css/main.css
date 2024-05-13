@@ -1,0 +1,59 @@
+body {
+  color: #ffffff;
+  font-family: monospace;
+  font-size: 110%;
+  text-align: center;
+  background-color: #222222;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+h3 {
+  color: #00ff00;
+}
+
+p {
+  color: #ffffff;
+}
+
+textarea {
+  width: 45%;
+  height: auto;
+  color: #ffffff;
+  background-color: #222222;
+}
+
+a:link {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #00ff00;
+}
+
+a:active {
+  text-decoration: none;
+  color: #ff0000;
+}
+
+#submit {
+  width: 7%;
+}
+
+#output {
+  background-color: #00ff00;
+  width: 7%;
+}
+
+br#big {
+  content: "";
+  margin: 50em;
+  display: block;
+}
