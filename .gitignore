@@ -12,7 +12,7 @@ db.sqlite
 .gcloudignore
 *.sh
 
-sample_templates/
+sample_templates
 static/keys/
 instructions.txt
 todo.txt
